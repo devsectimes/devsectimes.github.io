@@ -1,10 +1,14 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: default
+title: Home
 ---
 
-Welcome to DevSecTimes - your place for security 'stuff' important to developers.
+### Welcome to DevSecTimes
 
-Watch this space. We're creating lists and occasional reviews of relevant tech and websites.
+This site is intended to be a starting place for developers looking for information about 'security' technologies.
+
+*It's developer focused first.*
+
+We're planning to create curated lists and review some things in more detail.
+
+First up is the [SBOM](/sboms/)
