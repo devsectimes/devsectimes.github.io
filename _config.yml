@@ -1,5 +1,7 @@
 title: DevSecTimes
 email: editor@devsectimes.com
+baseurl: ""
+url: "" 
 description: Important information for developers - thats it
 remote_theme: just-the-docs/just-the-docs
 ga_tracking: G-MVYXK9B8DT
