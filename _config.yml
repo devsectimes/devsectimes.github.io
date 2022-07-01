@@ -2,6 +2,6 @@ title: DevSecTimes
 email: editor@devsectimes.com
 description: Important information for developers - thats it
 title: "Remote theme example"
-remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
 ga_tracking: G-MVYXK9B8DT
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
