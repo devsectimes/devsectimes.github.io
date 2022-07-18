@@ -8,7 +8,7 @@ nav_order: 1
 ## Docker 
 
 
-[Docker sbom command]([https://plugins.gradle.org/plugin/org.cyclonedx.bom](https://docs.docker.com/engine/sbom/))
+[Docker sbom command](https://docs.docker.com/engine/sbom/)
 
 #### Supported Standards
 CycloneDX SPDX-2.2
