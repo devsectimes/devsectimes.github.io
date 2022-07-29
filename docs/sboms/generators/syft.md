@@ -11,7 +11,7 @@ nav_order: 1
 [Syft](https://github.com/anchore/syft)
 
 #### Supported Standards
-CycloneDX SPDX, Syft
+CycloneDX, SPDX, Syft
 
 #### Overview 
 CLI tool and library for generating a Software Bill of Materials from container images and filesystems
